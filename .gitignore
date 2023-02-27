@@ -1,0 +1,7 @@
+bin/
+output/png/
+report/*.aux
+report/*.log
+report/*.pdf
+**/.DS_Store
+.DS_Store
