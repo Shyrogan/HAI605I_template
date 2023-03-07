@@ -2,7 +2,7 @@
 
 # Variables
 CXX = gcc
-CXXFLAGS = -Wall -g
+CXXFLAGS = -Wall -g -lm
 SRC_DIR = src
 REPORT_DIR = report
 BIN_DIR = bin
