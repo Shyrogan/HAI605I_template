@@ -1,7 +1,7 @@
 .RECIPEPREFIX := $(.RECIPEPREFIX) $(.RECIPEPREFIX)
 
 # Variables
-CXX = g++
+CXX = gcc
 CXXFLAGS = -Wall -g
 SRC_DIR = src
 REPORT_DIR = report
