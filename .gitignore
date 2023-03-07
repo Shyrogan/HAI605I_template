@@ -3,5 +3,6 @@ output/png/
 report/*.aux
 report/*.log
 report/*.pdf
+report/*.toc
 **/.DS_Store
 .DS_Store

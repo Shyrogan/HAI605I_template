@@ -1,4 +1,4 @@
-.RECIPEPREFIX := $(.RECIPEPREFIX) $(.RECIPEPREFIX)
+.RECIPEPREFIX +=
 
 # Variables
 CXX = gcc
